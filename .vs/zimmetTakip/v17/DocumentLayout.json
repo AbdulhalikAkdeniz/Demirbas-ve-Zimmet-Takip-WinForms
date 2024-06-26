@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\demirbaslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\demirbaslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\degiskendemirbaslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\degiskendemirbaslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\csvsaving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\csvsaving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\firstcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\firstcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\hakkinda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\hakkinda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\hiyerarsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\hiyerarsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\interactexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\interactexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\keeplog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\keeplog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\personeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\personeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\tur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\tur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\txtreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\txtreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\zimmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\zimmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\demirbas-ve-zimmet-takip-winforms\\veriokumaexcel\\zimmetler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2988D5C2-596B-4F03-BC42-7F9085B413E5}|veriokumaexcel\\zimmetTakip.csproj|solutionrelative:veriokumaexcel\\zimmetler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\Form1.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\Form1.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\Form1.cs [Design]",
+              "RelativeToolTip": "veriokumaexcel\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:09:09.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "csvSaving.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\csvSaving.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\csvSaving.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\csvSaving.cs",
+              "RelativeToolTip": "veriokumaexcel\\csvSaving.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:57:54.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "degiskenDemirbaslar.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\degiskenDemirbaslar.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\degiskenDemirbaslar.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\degiskenDemirbaslar.cs",
+              "RelativeToolTip": "veriokumaexcel\\degiskenDemirbaslar.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:57:51.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demirbaslar.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\demirbaslar.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\demirbaslar.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\demirbaslar.cs",
+              "RelativeToolTip": "veriokumaexcel\\demirbaslar.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:57:43.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirstControl.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\FirstControl.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\FirstControl.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\FirstControl.cs",
+              "RelativeToolTip": "veriokumaexcel\\FirstControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:57:13.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hakkinda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\hakkinda.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\hakkinda.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\hakkinda.cs [Design]",
+              "RelativeToolTip": "veriokumaexcel\\hakkinda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:56:59.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hiyerarsi.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\Hiyerarsi.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\Hiyerarsi.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\Hiyerarsi.cs",
+              "RelativeToolTip": "veriokumaexcel\\Hiyerarsi.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:56:43.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "interactExcel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\interactExcel.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\interactExcel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\interactExcel.cs",
+              "RelativeToolTip": "veriokumaexcel\\interactExcel.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:56:15.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "keepLog.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\keepLog.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\keepLog.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\keepLog.cs",
+              "RelativeToolTip": "veriokumaexcel\\keepLog.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:56:09.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\main.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\main.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\main.cs",
+              "RelativeToolTip": "veriokumaexcel\\main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:46.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "marka.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\marka.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\marka.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\marka.cs",
+              "RelativeToolTip": "veriokumaexcel\\marka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:43.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "model.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\model.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\model.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\model.cs",
+              "RelativeToolTip": "veriokumaexcel\\model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:41.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "personel.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\personel.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\personel.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\personel.cs",
+              "RelativeToolTip": "veriokumaexcel\\personel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:39.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "personeller.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\personeller.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\personeller.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\personeller.cs",
+              "RelativeToolTip": "veriokumaexcel\\personeller.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:31.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\Program.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\Program.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\Program.cs",
+              "RelativeToolTip": "veriokumaexcel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:30.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tur.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\tur.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\tur.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\tur.cs",
+              "RelativeToolTip": "veriokumaexcel\\tur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:24.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "txtReading.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\txtReading.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\txtReading.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\txtReading.cs",
+              "RelativeToolTip": "veriokumaexcel\\txtReading.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:14.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "urun.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\urun.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\urun.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\urun.cs",
+              "RelativeToolTip": "veriokumaexcel\\urun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:13.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "zimmet.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\zimmet.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\zimmet.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\zimmet.cs",
+              "RelativeToolTip": "veriokumaexcel\\zimmet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:11.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "zimmetler.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\zimmetler.cs",
+              "RelativeDocumentMoniker": "veriokumaexcel\\zimmetler.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Demirbas-ve-Zimmet-Takip-WinForms\\veriokumaexcel\\zimmetler.cs",
+              "RelativeToolTip": "veriokumaexcel\\zimmetler.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:00.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

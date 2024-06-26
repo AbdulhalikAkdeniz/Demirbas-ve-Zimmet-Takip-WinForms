@@ -1,0 +1,130 @@
+C:\Users\win10\AppData\Local\Temporary Projects\veriokumaexcel\bin\Debug\veriokumaexcel.exe.config
+C:\Users\win10\AppData\Local\Temporary Projects\veriokumaexcel\bin\Debug\veriokumaexcel.exe
+C:\Users\win10\AppData\Local\Temporary Projects\veriokumaexcel\bin\Debug\veriokumaexcel.pdb
+C:\Users\win10\AppData\Local\Temporary Projects\veriokumaexcel\obj\Debug\veriokumaexcel.csprojResolveAssemblyReference.cache
+C:\Users\win10\AppData\Local\Temporary Projects\veriokumaexcel\obj\Debug\veriokumaexcel.Form1.resources
+C:\Users\win10\AppData\Local\Temporary Projects\veriokumaexcel\obj\Debug\veriokumaexcel.Properties.Resources.resources
+C:\Users\win10\AppData\Local\Temporary Projects\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.GenerateResource.Cache
+C:\Users\win10\AppData\Local\Temporary Projects\veriokumaexcel\obj\Debug\veriokumaexcel.exe
+C:\Users\win10\AppData\Local\Temporary Projects\veriokumaexcel\obj\Debug\veriokumaexcel.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\bin\Debug\veriokumaexcel.exe.config
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\obj\Debug\veriokumaexcel.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\obj\Debug\veriokumaexcel.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\bin\Debug\veriokumaexcel.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\bin\Debug\veriokumaexcel.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\obj\Debug\veriokumaexcel.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\obj\Debug\veriokumaexcel.Form1.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\obj\Debug\veriokumaexcel.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.GenerateResource.Cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personeller.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personelKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\bin\Debug\veriokumaexcel.exe.config
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\bin\Debug\veriokumaexcel.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\bin\Debug\veriokumaexcel.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.Form1.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personelKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personeller.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.GenerateResource.Cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.frm_kayitlimarkamodeller.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.hakkinda.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetFiltre.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.frm_birimlerDuzenle.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2\veriokumaexcel\obj\Debug\veriokumaexcel.frm_unvanlarDuzenle.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\bin\Debug\veriokumaexcel.exe.config
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.Form1.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.frm_birimlerDuzenle.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.frm_kayitlimarkamodeller.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personelKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personeller.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.frm_unvanlarDuzenle.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetFiltre.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.hakkinda.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.GenerateResource.Cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\bin\Debug\veriokumaexcel.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\bin\Debug\veriokumaexcel.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.AssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel1907\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.CoreCompileInputs.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\bin\Debug\veriokumaexcel.exe.config
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\bin\Debug\veriokumaexcel.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\bin\Debug\veriokumaexcel.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.AssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.Form1.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.frm_birimlerDuzenle.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.frm_kayitlimarkamodeller.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personelKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personeller.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.frm_unvanlarDuzenle.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetFiltre.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.hakkinda.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.GenerateResource.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.CoreCompileInputs.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2407\veriokumaexcel\obj\Debug\veriokumaexcel.frm_gecmis.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\bin\Debug\veriokumaexcel.exe.config
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\bin\Debug\veriokumaexcel.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\bin\Debug\veriokumaexcel.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.AssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.Form1.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_birimlerDuzenle.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_gecmis.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_kayitlimarkamodeller.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personelKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personeller.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_unvanlarDuzenle.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetFiltre.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.hakkinda.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetKayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.GenerateResource.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.CoreCompileInputs.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.pdb
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.Form1.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_birimlerDuzenle.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_gecmis.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_kayitlimarkamodeller.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personelKayit.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_personeller.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_unvanlarDuzenle.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunKayit.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_urunler.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetFiltre.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetler.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.hakkinda.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.Properties.Resources.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.frm_zimmetKayit.resources
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.exe
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\obj\Debug\veriokumaexcel.pdb
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\bin\Debug\veriokumaexcel.exe.config
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\bin\Debug\veriokumaexcel.exe
+C:\Users\abdul\OneDrive\Masaüstü\all_projects\to-github\veriokumaexcel2308\veriokumaexcel\bin\Debug\veriokumaexcel.pdb
